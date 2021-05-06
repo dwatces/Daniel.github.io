@@ -1,2 +1,2 @@
-# Daniel.github.io
+# Daniel.tech
 Graduate Portfolio For Employment
